@@ -1,7 +1,7 @@
 const mongoose=require("mongoose")
 const cors=require("cors")
 const express=require("express")
-const { patientmodel } = require("./models/vehicle")
+const { patientmodel } = require("./models/patient")
 
 
 const app=express()
